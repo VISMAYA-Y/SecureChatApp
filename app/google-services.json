@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "492449546256",
+    "project_id": "cryptext-4f021",
+    "storage_bucket": "cryptext-4f021.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492449546256:android:1da14c327b1d1ad23f0a95",
+        "android_client_info": {
+          "package_name": "com.example.cryptext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492449546256-e854kltir3ghjk999ae97q91v7370048.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cryptext",
+            "certificate_hash": "ec365af22170b4eb9a0136ad90c8e1b20858e7ed"
+          }
+        },
+        {
+          "client_id": "492449546256-s5de2oqm85562605l0hi4hj944k4prdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXh3rMiRHIFShhwJxc1F_Z1R9QcqQOAdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492449546256-s5de2oqm85562605l0hi4hj944k4prdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
